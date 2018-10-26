@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uk.co.haibooks",
+    "sha256_cert_fingerprints":
+    ["A2:3D:B1:96:CA:A4:7D:98:C9:52:47:F6:FA:A0:42:4A:6A:26:5C:F1:5C:0F:45:23:44:9A:B2:79:13:1D:94:FA"]
+  }
+}]
